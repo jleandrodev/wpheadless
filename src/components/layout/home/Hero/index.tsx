@@ -15,7 +15,7 @@ export default function Hero() {
             Unlock the Power of Seamless Collaboration
           </h1>
           <p className="max-w-[600px] text-white md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-            Streamline your team's workflow with our all-in-one platform,
+            Streamline your teams workflow with our all-in-one platform,
             designed to boost productivity and foster seamless collaboration.
           </p>
           <Link

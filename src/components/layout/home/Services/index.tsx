@@ -8,7 +8,7 @@ export default function Component() {
         <p className="text-muted-foreground max-w-3xl mt-2 mb-8">
           Our platform is designed to help you build and deploy your
           applications with ease. From rapid deployment to enterprise-grade
-          security, we've got you covered.
+          security, weve got you covered.
         </p>
         <div className="container grid max-w-8xl gap-8 lg:grid-cols-3 xl:max-w-8xl xl:gap-10">
           <div className="grid gap-6">

@@ -12,7 +12,7 @@ export default function Component() {
         </h1>
         <p className="text-lg text-muted-foreground">
           Have a question or want to work together? Fill out the form below and
-          we'll get back to you as soon as possible.
+          well get back to you as soon as possible.
         </p>
       </div>
       <div className="mt-12 rounded-lg border bg-background p-8 shadow-sm sm:mt-16">
