@@ -1,6 +1,6 @@
 import { ApolloClient, InMemoryCache } from "@apollo/client";
 
 export const client = new ApolloClient({
-  uri: "https://hml-blog-coliseu.seodev.ambienteseo.com.br/graphql",
+  uri: "https://fibboweb.com/graphql",
   cache: new InMemoryCache(),
 });

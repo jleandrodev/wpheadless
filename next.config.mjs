@@ -1,5 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  images: {
+    domains: ["placehold.jp", "fibboweb.com"],
+  },
+  images: {
+    unoptimized: true,
+  },
+  output: "export",
   poweredByHeader: false,
   async headers() {
     return [
